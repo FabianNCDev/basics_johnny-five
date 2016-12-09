@@ -10,6 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "johnny-five": "^0.10.3"
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "firmata": "^0.14.1",
+    "firmata-party": "^1.5.1",
+    "johnny-five": "^0.10.3",
+    "serialport": "^4.0.6"
   }
 }
